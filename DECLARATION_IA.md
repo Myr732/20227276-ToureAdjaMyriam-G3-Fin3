@@ -12,9 +12,6 @@ ChatGPT — OpenAI
 - Aide à l'identification et à la documentation des sources.
 - Explication des notions de Python et de Machine Learning.
 
-## Utilisation pendant l'examen
-À compléter selon l'utilisation réelle.
-
 ## Vérification
 Les propositions de l'IA sont vérifiées et adaptées
 par l'étudiant.
